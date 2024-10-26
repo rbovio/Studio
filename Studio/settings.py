@@ -87,6 +87,7 @@ DATABASES = {
     }
 }
 
+DATABASE_URL = 'postgresql://postgres:MxhbRsHvbcIUslbKrtYlfRibGVLoXsLa@postgres.railway.internal:5432/railway'
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
