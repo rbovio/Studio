@@ -88,7 +88,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
-        'HOST': 'postgre.railway.internal',
+        'HOST': 'postgres.railway.internal',
         'PORT': '5432',
     }
 }
